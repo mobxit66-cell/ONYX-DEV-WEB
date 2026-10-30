@@ -1,0 +1,104 @@
+button {
+    background-color: #1769ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0044cc;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #1769ff;
+}
+
+h1 {
+    color: #258aff;
+}
+
+h2 {
+    color: white;
+}
+body {
+    background-color: #12091f;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #258aff;
+    font-size: 38px;
+}
+
+h2 {
+    color: white;
+}
+body {
+    background-color: black;
+
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
+        url("img/fundo.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body {
+    background-color: black;
+    background-image: url("https://i.pinimg.com/736x/e1/63/8e/e1638eeec95a5b2632e2abaaf7214796.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* Cartões */
+.card {
+    background: rgba(0, 0, 0, 0.90);
+    border: 1px solid #222;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+/* Campos */
+input {
+    background-color: #111;
+    color: white;
+    border: 1px solid #333;
+}
+
+/* Botões */
+button {
+    background-color: #0066ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 20px;
+}
+
+/* Títulos */
+h2 {
+    color: white;
+}
+body {
+    color: black;
+}
+
+h1, h2, h3, p, label, a {
+    color: black;
+}
+
+input {
+    color: black;
+}
+
+button {
+    color: black;
+}
